@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Ad Generator",
+  "description": "Create stunning video ads from a single image and a text prompt. Choose your desired quality and aspect ratio, and let Gemini's VEO model bring your vision to life.",
+  "requestFramePermissions": []
+}
